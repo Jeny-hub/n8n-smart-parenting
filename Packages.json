@@ -1,0 +1,14 @@
+{
+  "name": "n8n-smart-parenting",
+  "version": "1.0.0",
+  "description": "Custom n8n automation server for Smart Parenting Tips blog",
+  "scripts": {
+    "start": "n8n"
+  },
+  "author": "Jeny-hub",
+  "license": "MIT",
+  "dependencies": {
+    "n8n": "^1.39.0"
+  }
+}
+
